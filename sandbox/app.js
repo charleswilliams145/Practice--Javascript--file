@@ -113,22 +113,22 @@
 
 
 // 
-// const firstName = 'Mark';
-// const lastName = 'Jackson';
-// const str = 'this is my passion';
-// let val;
+const firstName = 'Lou';
+const lastName = 'Celesti';
+const str = 'this is my passion';
+let val;
 
-// val = firstName;
-// val += lastName;
-// val = lastName;
-// val = firstName.concat(' ', lastName);
+val = firstName;
+val += lastName;
+val = lastName;
+val = firstName.concat(' '+ lastName);
 // val = lastName.charAt(lastName.length -1);
 // val = lastName.substring(0, 4);
 // val = str.split(' ');
 // val = firstName.slice(0, 4);
 
 
-// console.log(val);
+console.log(val);
 // const name = 'Charles';
 // const age = 52;
 // const job = 'coder';

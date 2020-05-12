@@ -66,14 +66,30 @@
 // console.log(picColor('green'));
 
 
-for(let i = 0; i <= 10; i++){
-    if (i === 2) {
-    console.log('This is my favorite number' + i);
-}
+// for(let i = 0; i <= 10; i++){
+//     if (i === 2) {
+//     console.log('This is my favorite number' + i);
+// }
 
-else {console.log('This is not my favorite Number ' + i)};
-}
-Val =
-Math.floor(Math.random() * 50 + 1);
+// else {console.log('This is not my favorite Number ' + i)};
+// }
+// Val =
+// Math.floor(Math.random() * 50 + 1);
 
-console.log(Val);
+// console.log(Val);
+
+//
+// let i = 0;
+
+// do {
+//    console.log('numbers '+ i);
+//    i++;
+
+// }
+// while(i<3);
+let cars = ['Ford', 'Chevy', 'Toyota', 'Honda'];
+
+cars.forEach(car => {
+    console.log(car)
+    
+});
